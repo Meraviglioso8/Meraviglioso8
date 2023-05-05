@@ -15,7 +15,7 @@
 
 - :seedling: Kinda enjoy playing CTFs
 
-- :mailbox:You can reach me at: ttmhuyen2110@gmail.com
+- :mailbox: You can reach me at: ttmhuyen2110@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
