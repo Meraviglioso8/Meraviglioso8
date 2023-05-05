@@ -1,8 +1,13 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="![sticker_14 (1)](https://user-images.githubusercontent.com/46748862/236374575-adb1cd7f-bcff-48d6-aaca-161d884dc043.gif)" width="100"/>
-</div>
+  <img src="https://media.tenor.com/Y7Tz9RZXnQgAAAAi/hmmm-twitch.gif"width="100">
 
+</div>
+<div id="badges" align="center">
+<a href="https://www.facebook.com/t.huyen.8">
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+</a>
+</div>
 <!--
 **Meraviglioso8/Meraviglioso8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
