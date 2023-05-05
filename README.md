@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/Y7Tz9RZXnQgAAAAi/hmmm-twitch.gif"width="100">
 
+</div>
 
 ### Hi there 👋 You can call me Huyen.
 
