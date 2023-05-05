@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="![sticker_14 (1)](https://user-images.githubusercontent.com/46748862/236374575-adb1cd7f-bcff-48d6-aaca-161d884dc043.gif)" width="100"/>
+</div>
 
 <!--
 **Meraviglioso8/Meraviglioso8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
