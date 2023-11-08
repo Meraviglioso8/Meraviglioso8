@@ -7,7 +7,7 @@
 
 - :telescope: I’m a student at University of Information Technology - VNUHCM; Major in Information Security
 
-- :seedling: On my way to become a DevSecOps
+- :seedling: DevSecOps wannabe
 
 - :mailbox: You can reach me at: ttmhuyen2110@gmail.com
 
