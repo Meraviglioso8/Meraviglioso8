@@ -9,7 +9,7 @@
 
 - :seedling: DevSecOps wannabe
 
-- :mailbox: You can reach me at: ttmhuyen2110@gmail.com
+- :mailbox: You can reach me at: www.linkedin.com/in/t-huyen
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
