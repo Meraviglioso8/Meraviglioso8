@@ -11,7 +11,7 @@
 
 - :mailbox: You can reach me at: www.linkedin.com/in/t-huyen
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="C+" **alt="C+" width="35" height="40"/>
@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" **alt="vsc" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meraviglioso8&theme=dark&background=000000)](https://git.io/streak-stats)
 
                                                                             
