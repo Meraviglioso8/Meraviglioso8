@@ -5,11 +5,11 @@
 
 ### Hi there 👋 You can call me Huyen.
 
-- :telescope: I’m a student at University of Information Technology - VNUHCM; Major in Information Security
+-  I’m a student at University of Information Technology - VNUHCM; Major in Information Security
 
-- :seedling: DevSecOps wannabe
+-  DevSecOps wannabe
 
-- :mailbox: You can reach me at: www.linkedin.com/in/t-huyen
+-  You can reach me at: www.linkedin.com/in/t-huyen
 
 ### Languages and Tools :
 <div>
