@@ -1,7 +1,7 @@
 
 ### Hi there 👋 You can call me Huyen.
 
--  I’m a student at University of Information Technology - VNUHCM; Major in Information Security
+-  I’m a 4th year student 
 
 -  DevSecOps wannabe
 
