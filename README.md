@@ -5,8 +5,6 @@
 
 -  DevSecOps wannabe
 
--  You can reach me at: www.linkedin.com/in/t-huyen
-
 ### Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
